@@ -1086,6 +1086,7 @@ html, body{
     width: 100%;
     position: relative;
     /* background-color: red; */
+    margin-top: 20vh;
     padding-left: 2vw;
 }
 #footer-text h1{
@@ -1098,10 +1099,11 @@ html, body{
     content: "04";
     position: absolute;
     font-size: 3vw;
-    font-weight: 100;
+    font-weight: 400;
     font-family: "silk serif";
-    left: -13%;
-    top: 6%;
+    left: 2%;
+    top: -45%;
+    /* background-color: #fff; */
 }
 #footer-text {
     position: relative;
