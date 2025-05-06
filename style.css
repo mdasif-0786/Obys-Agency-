@@ -32,6 +32,7 @@
 html, body{
     height: 100%;
     width: 100%;
+    cursor: none;
     
 }
 
@@ -207,7 +208,6 @@ html, body{
     position: relative;
     background-color: #151515;
     overflow: hidden;
-    
     z-index: 99;
 
 }
@@ -219,7 +219,7 @@ html, body{
     width: 100%;
     position: relative;
     z-index: 1;
-    margin-bottom: 5vh;
+    margin-bottom: 15vh;
     /* margin-top: 1px; */
     /* background-color: #151515; */
 
@@ -356,7 +356,7 @@ html, body{
     z-index: 2;
     
     padding-bottom: 4vh;
-    margin-top: 15vh;
+    margin-top: 25vh;
     margin-bottom: 2vh;
 }
 #video-container{
@@ -850,8 +850,8 @@ html, body{
     margin-top: 0vh;
 }
  button{
-    height: 48vh;
-    width: 48vh;
+    height: 45vh;
+    width: 45vh;
     border-radius: 50%;
     position: relative;
     display: -webkit-box;
@@ -872,16 +872,16 @@ html, body{
    
 }
 .button button span{
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     font-weight: 400;
 }
 .button button h2{
-    font-size: 2.5vw;
+    font-size: 2vw;
     font-weight: 500;
 }
 .button button:hover{
-    height: 45vh;
-    width: 45vh;
+    height: 40vh;
+    width: 40vh;
     /* background-color: #fff; */
 }
 .page4{
@@ -890,7 +890,7 @@ html, body{
     /* background-color: #583b3b; */
     position: relative;
     padding: 7vh 0;
-    margin-top: 1vh;
+    margin-top: 10vh;
     /* margin-bottom: 3vh; */
 }
 #page4-content{
@@ -1453,8 +1453,8 @@ span h4{
         width: 100%;
         /* background-color: #3f90b9; */
         padding-top: 0vh;
-        margin-bottom: 10vh;
-        margin-top: 6vh;
+        margin-bottom: 18vh;
+        margin-top: 10vh;
     
     }
     #video-container{
@@ -1512,7 +1512,7 @@ span h4{
         position: relative;
         padding: 5vw 2vw;
         margin-top: 10vh;
-        margin-bottom: 5vh;
+        margin-bottom: 10vh;
         
     }
     .page3 h1{
@@ -1845,13 +1845,13 @@ span h4{
             -ms-flex-pack: center;
                 justify-content: center;
         position: relative;
-        margin-top: 10vh;
-        margin-bottom: 10vh;
+        /* margin-top: 10vh;
+        margin-bottom: 10vh; */
         /* background-color: orange; */
     }
     button{
-        height: 25vh;
-        width: 25vh;
+        height: 22vh;
+        width: 22vh;
         border-radius: 50%;
         border: none;
         display: -webkit-box;
@@ -1868,11 +1868,11 @@ span h4{
        
     }
     .button button span{
-        font-size: 3vw;
+        font-size: 2.5vw;
         font-weight: 400;
     }
     .button button h2{
-        font-size: 5vw;
+        font-size: 4vw;
         font-weight: 600;
     }
     .button button:hover{
