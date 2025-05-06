@@ -1,22 +1,22 @@
 
 @font-face {
     font-family: "Plain Light";
-    src: url(./font/plain-regular-webfont.ttf);
+    src: url(./font/plain-regular-webfont.woff2);
 }
 
 @font-face {
     font-family: "Plain Light";
-    src: url(./font/plain-light-webfont.ttf);
+    src: url(./font/plain-light-webfont.woff2);
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./font/silkserif-regularitalic-webfont.ttf);
+    src: url(./font/silkserif-regularitalic-webfont.woff2);
 }
 
 @font-face {
     font-family: "silk serif";
-    src: url(./font/silkserif-lightitalic-webfont.ttf);
+    src: url(./font/silkserif-lightitalic-webfont.woff2);
 
 }
 
@@ -365,7 +365,7 @@ html, body{
     position: relative;
     left: 29vw;
     background-color: red;
-    background-image: url(/Assets/video-img.jpg);
+    background-image: url(/Assets/video-img.webp);
     background-position: center;
     background-size: cover;
     
