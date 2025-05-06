@@ -365,7 +365,7 @@ html, body{
     position: relative;
     left: 29vw;
     background-color: red;
-    background-image: url(/Assets/video-img.webp);
+    background-image: url(Assets/video-img.webp);
     background-position: center;
     background-size: cover;
     
@@ -1464,7 +1464,7 @@ span h4{
         left: 0vw;
         right: 0vw;
         /* background-color: red; */
-        background-image: url(/Assets/video-img.jpg);
+        background-image: url(Assets/video-img.webp);
         background-position: center;
         background-size: cover;
         
